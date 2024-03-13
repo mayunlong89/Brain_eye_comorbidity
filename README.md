@@ -1,5 +1,7 @@
 # Unraveling the role of the eye-brain connections in shared genetic etiology between ocular diseases and psychiatric disorders: a genome-wide pleiotropic analysis
 Yunlong Ma1,2,3,6, #, Dingping Jiang1,4, 6, Jingjing Li 1,4, Gongwei Zheng1,4, Yao Deng1,4, Xuanxuan Gou1,4, Shuaishuai Gao1,4, Cheng Chen1,5, Jianzhong Su1,4,5, #
+
+# Affiliations
 1 Oujiang Laboratory, Zhejiang Lab for Regenerative Medicine, Vision and Brain Health, Eye Hospital, Wenzhou Medical University, Wenzhou 325101, Zhejiang, China. 
 2 Department of Psychiatry, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA  
 3Lifespan Brain Institute at Penn Med and the Children’s Hospital of Philadelphia, Philadelphia, PA, USA.
