@@ -1,6 +1,6 @@
 
 
-### This is for H-MGAMA-based permutation analysis
+### This is for H-MGAMA-based permutation analysis and Visualization
 
 ###---------------10000 times of Monte Carlo permutation analysis-------------------------
 
