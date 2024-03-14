@@ -20,6 +20,7 @@ Dean, Institute of Genomic Medicine, Wenzhou Medical University
 Ph: 86-150-678-10909
 E-mail: sujz@wmu.edu.cn 
 
+![Workflow](https://github.com/mayunlong89/Brain_eye_comorbidity/blob/main/Figures/Figure%201.png)
 
 # ABSTRACT
 ## IMPORTANCE 
