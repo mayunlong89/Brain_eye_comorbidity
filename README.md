@@ -2,12 +2,11 @@
 
 ## Correspondence should be addressed to:
 Yunlong Ma, Ph.D
-Department of Psychiatry, Perelman School of Medicine, University of Pennsylvania 
+Department of Psychiatry, Perelman School of Medicine, University of Pennsylvania;
 E-mail: yunlong.ma@pennmedicine.upenn.edu 
 
 Jianzhong Su, Ph. D.
-Dean, Institute of Genomic Medicine, Wenzhou Medical University
-Ph: 86-150-678-10909
+Dean, Institute of Genomic Medicine, Wenzhou Medical University;
 E-mail: sujz@wmu.edu.cn 
 
 ![Workflow](https://github.com/mayunlong89/Brain_eye_comorbidity/blob/main/Figures/Figure_1.png)
