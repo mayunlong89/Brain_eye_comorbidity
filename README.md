@@ -1,6 +1,6 @@
 # Unraveling the role of the eye-brain connections in shared genetic etiology between ocular diseases and psychiatric disorders: a genome-wide pleiotropic analysis
 
-# Correspondence should be addressed to:
+## Correspondence should be addressed to:
 Yunlong Ma, Ph.D
 Department of Psychiatry, Perelman School of Medicine, University of Pennsylvania 
 E-mail: yunlong.ma@pennmedicine.upenn.edu 
