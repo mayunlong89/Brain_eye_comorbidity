@@ -25,7 +25,7 @@ Single-cell multimodal techniques have advanced the functional elucidation of di
 
 2. Ma et al., Integrating polygenic association signals and single-cell multiomic profiles to uncover cell type-specific regulons relevant to complex diseases, medRvix, 2024
    
-3. Ma et al., Integration of human organoids single-cell transcriptomic profiles and human genetics repurposes critical cell type-specific drug targets for severe COVID-19. [Ma et al., Cell Proliferation, 2024, e13558](https://onlinelibrary.wiley.com/doi/full/10.1111/cpr.13558), and see related [Github codes](https://github.com/mayunlong89/scHuman_organoids_COVID19).
+3. Ma et al., Integration of human organoids single-cell transcriptomic profiles and human genetics repurposes critical cell type-specific drug targets for severe COVID-19. [Ma et al., Cell Proliferation, 2024](https://onlinelibrary.wiley.com/doi/full/10.1111/cpr.13558), and see related [Github codes](https://github.com/mayunlong89/scHuman_organoids_COVID19).
    
 4. Ma et al., Polygenic regression uncovers trait-relevant cellular contexts through pathway activation transformation of single-cell RNA sequencing data, Cell Genomics, 2023. see [Ma et al., Cell Genomics, 2023](https://www.cell.com/cell-genomics/fulltext/S2666-979X(23)00180-5), and see related [Github codes](https://github.com/mayunlong89/scPagwas_main)
 
