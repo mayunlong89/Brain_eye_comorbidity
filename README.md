@@ -17,12 +17,11 @@ Single-cell multimodal techniques have advanced the functional elucidation of di
 # Keywords:
 ``` GWAS, Genetic correlation, Pleiotropy, Psychiatric disorders, Ocular diseases```
 
-# Citations
-Ma et al. Systemaic dissection of pleiotropic loci and critical regulons in exhibitory neurons and microglia relevant to neuropsychiatric and occular diseases, medRvix, 2024.
+# Citation
+1. Ma et al. Systemaic dissection of pleiotropic loci and critical regulons in exhibitory neurons and microglia relevant to neuropsychiatric and occular diseases, medRvix, 2024.
 
 
 # Other referecne:
- 
 1. [scPagwas](https://www.cell.com/cell-genomics/pdf/S2666-979X(23)00180-5.pdf)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8137370.svg)](https://doi.org/10.5281/zenodo.8137370)
 
