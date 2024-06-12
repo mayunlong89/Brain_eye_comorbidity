@@ -1,13 +1,9 @@
 # Systematic dissection of pleiotropic loci and critical regulons in exhibitory neurons and microglia relevant to neuropsychiatric and occular diseases
 
 ## Correspondence should be addressed to:
-1. Yunlong Ma, Ph.D
+Yunlong Ma, Ph.D
 Department of Psychiatry, Perelman School of Medicine, University of Pennsylvania;
 E-mail: yunlong.ma@pennmedicine.upenn.edu 
-
-2. Jianzhong Su, Ph. D.
-Dean, Institute of Genomic Medicine, Wenzhou Medical University;
-E-mail: sujz@wmu.edu.cn 
 
 ![Workflow](https://github.com/mayunlong89/Brain_eye_comorbidity/blob/main/Figures/Figure_1.png)
 
