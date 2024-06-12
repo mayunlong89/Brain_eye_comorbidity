@@ -1,13 +1,5 @@
 # Systematic dissection of pleiotropic loci and critical regulons in exhibitory neurons and microglia relevant to neuropsychiatric and occular diseases
 
-## Correspondence should be addressed to:
-Yunlong Ma, Ph.D
-Department of Psychiatry, Perelman School of Medicine, University of Pennsylvania;
-E-mail: yunlong.ma@pennmedicine.upenn.edu 
-
-## Workflow of current study
-![Workflow](https://github.com/mayunlong89/Brain_eye_comorbidity/blob/main/Figures/Figure_1.png)
-
 # Brief description
 `Background`: Single-cell multimodal techniques have advanced our understanding of disease-relevant loci identified in genome-wide association studies (GWASs). However, the functional interpretation of these variants remains challenging. It is still unclear how these variants modulate core gene-regulatory networks in specific cell types to influence complex diseases. 
 
@@ -19,6 +11,14 @@ E-mail: yunlong.ma@pennmedicine.upenn.edu
 
 # Keywords:
 ``` GWAS, Genetic correlation, Pleiotropy, Psychiatric disorders, Ocular diseases```
+
+## Workflow of current study
+![Workflow](https://github.com/mayunlong89/Brain_eye_comorbidity/blob/main/Figures/Figure_1.png)
+
+## Correspondence should be addressed to:
+Yunlong Ma, Ph.D
+Department of Psychiatry, Perelman School of Medicine, University of Pennsylvania;
+E-mail: yunlong.ma@pennmedicine.upenn.edu 
 
 # Citation
 1.  Ma et al., Sytematic dissection of pleiotropic loci and critical regulons in exhibitory neurons and microglia relevant to neuropsychiatric and ocular diseases, [Research Square](https://www.researchsquare.com/article/rs-4514542/v1), 2024.
