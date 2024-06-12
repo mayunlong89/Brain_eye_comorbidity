@@ -5,6 +5,7 @@ Yunlong Ma, Ph.D
 Department of Psychiatry, Perelman School of Medicine, University of Pennsylvania;
 E-mail: yunlong.ma@pennmedicine.upenn.edu 
 
+## Workflow of current study
 ![Workflow](https://github.com/mayunlong89/Brain_eye_comorbidity/blob/main/Figures/Figure_1.png)
 
 # Brief description
