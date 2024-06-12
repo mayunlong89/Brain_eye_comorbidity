@@ -10,7 +10,7 @@
 `Conclusions`: Our study reinforces the genetic link between psychiatric and ocular diseases and provides biological insights into the potential regulatory mechanisms and implications for future therapeutic development.
 
 # Keywords:
-``` GWAS, Genetic correlation, Pleiotropy, Psychiatric disorders, Ocular diseases```
+`GWAS`, `Genetic correlation`, `Pleiotropy`, `Psychiatric disorders`, `Ocular diseases`
 
 ## Workflow of current study
 ![Workflow](https://github.com/mayunlong89/Brain_eye_comorbidity/blob/main/Figures/Figure_1.png)
