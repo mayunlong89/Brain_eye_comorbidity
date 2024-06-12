@@ -16,8 +16,6 @@ E-mail: sujz@wmu.edu.cn
 `Methods`: We developed a computational framework to integrate bulk and single-cell multiomic (scRNA-seq and scATAC-seq) profiles with GWAS summary statistics for identifying critical transcription factor (TF)-regulatory regulons through which genetic variants influence eight neuropsychiatric and five ocular diseases. Various genetic methods were utilized to uncover pleiotropic loci, risk genes, and key pathways for the diseases. 
 `Results`: Our analysis revealed five latent factors explaining 61.7% of genetic variances across the 13 eye and brain diseases, showing diverse correlational patterns among these conditions. We identified 45 pleiotropic loci with 91 candidate genes contributing to disease risk. Integration of the GWAS and single-cell sequencing data implicated excitatory neurons and microglia in eye-brain connections. Network-based polygenic enrichment analysis identified 15 disease-relevant pleiotropic regulons in exhibitory neurons, including BCL11A, STAT4, and GLS1, and 16 disease-relevant pleiotropic regulons in microglia, such as SPI1, FOXP2, and MEF2C. Exhibitory neuron-specific regulons were functionally involved in axon guidance and synaptic activity, while microglia-specific regulons related to immune response and cell activation. 
 `Conclusions`: Our study reinforces the genetic link between psychiatric and ocular diseases and provides biological insights into the potential regulatory mechanisms and implications for future therapeutic development.
-![image](https://github.com/mayunlong89/Brain_eye_comorbidity/assets/16714701/c7facde3-1104-4206-b907-d19f94676279)
-
 
 # Keywords:
 ``` GWAS, Genetic correlation, Pleiotropy, Psychiatric disorders, Ocular diseases```
