@@ -29,12 +29,9 @@ E-mail: sujz@wmu.edu.cn
 
 # Other referecne:
 
-2.Ma et al., Polygenic network enrichment identifies cellular context-specific regulons relevant to diseases by integration of single-cell multiomic data, `medRvix`, 2024
-   
+2.Ma et al., Polygenic network enrichment identifies cellular context-specific regulons relevant to diseases by integration of single-cell multiomic data, `medRvix`, 2024.
 3. Ma et al., Integration of human organoids single-cell transcriptomic profiles and human genetics repurposes critical cell type-specific drug targets for severe COVID-19, `Cell Proliferation`, 2024. [Ma et al., Cell Proliferation, 2024](https://onlinelibrary.wiley.com/doi/full/10.1111/cpr.13558), and see related [Github codes](https://github.com/mayunlong89/scHuman_organoids_COVID19).
-   
-4. Ma et al., Polygenic regression uncovers trait-relevant cellular contexts through pathway activation transformation of single-cell RNA sequencing data, `Cell Genomics`, 2023. see [Ma et al., Cell Genomics, 2023](https://www.cell.com/cell-genomics/fulltext/S2666-979X(23)00180-5), and see related [Github codes](https://github.com/mayunlong89/scPagwas_main)
-
-5. Ma et al., Integrating single-cell sequencing data with GWAS summary statistics reveals CD16+monocytes and memory CD8+T cells involved in severe COVID-19. `Genome Medicine`, 2022. see [Ma et al., Genome Medicine, 2022](https://link.springer.com/article/10.1186/s13073-022-01021-1), and see related [Github codes](https://github.com/mayunlong89/COVID19_scRNA)
+4. Ma et al., Polygenic regression uncovers trait-relevant cellular contexts through pathway activation transformation of single-cell RNA sequencing data, `Cell Genomics`, 2023. see [Ma et al., Cell Genomics, 2023](https://www.cell.com/cell-genomics/fulltext/S2666-979X(23)00180-5), and see related [Github codes](https://github.com/mayunlong89/scPagwas_main).
+5. Ma et al., Integrating single-cell sequencing data with GWAS summary statistics reveals CD16+monocytes and memory CD8+T cells involved in severe COVID-19. `Genome Medicine`, 2022. see [Ma et al., Genome Medicine, 2022](https://link.springer.com/article/10.1186/s13073-022-01021-1), and see related [Github codes](https://github.com/mayunlong89/COVID19_scRNA).
 
    
