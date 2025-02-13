@@ -25,7 +25,7 @@ Systematic dissection of pleiotropic loci and critical regulons in excitatory ne
 ## Correspondence should be addressed to:
 Yunlong Ma, Ph.D
 Department of Psychiatry, Perelman School of Medicine, University of Pennsylvania;
-E-mail: yunlong.ma@pennmedicine.upenn.edu 
+E-mail: `yunlong.ma@pennmedicine.upenn.edu`; or `glb-biotech@zju.edu.cn`
 
 
 ## Citation
