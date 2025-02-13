@@ -30,7 +30,7 @@ E-mail: yunlong.ma@pennmedicine.upenn.edu
 
 ## Citation
 
-1.  Ma et al., Sytematic dissection of pleiotropic loci and critical regulons in excitatory neurons and microglia relevant to neuropsychiatric and ocular diseases, [Translational Psychiatry](https://www.nature.com/articles/s41398-025-03243-4) 2025, [Research Square](https://www.researchsquare.com/article/rs-4514542/v1), 2024.
+1.  Ma et al., Sytematic dissection of pleiotropic loci and critical regulons in excitatory neurons and microglia relevant to neuropsychiatric and ocular diseases, `Translational Psychiatry`, 2025. [Ma et al., Translational Psychiatry](https://www.nature.com/articles/s41398-025-03243-4) 2025, [Research Square](https://www.researchsquare.com/article/rs-4514542/v1), 2024.
 
 
 ## Other references:
