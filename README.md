@@ -1,4 +1,4 @@
-# Eye-brain connections through genetics and single-cell techniques
+# Cellular and genetic basis of eye-brain connections 
 # Title:
 Systematic dissection of pleiotropic loci and critical regulons in excitatory neurons and microglia relevant to neuropsychiatric and occular diseases
 
