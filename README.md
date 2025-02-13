@@ -14,7 +14,7 @@ Systematic dissection of pleiotropic loci and critical regulons in excitatory ne
 
 
 ## Keywords:
-`GWAS`, `Genetic correlation`, `Pleiotropy`, `Psychiatric disorders`, `Ocular diseases`
+`GWAS`, `Genetic correlation`,'Cellular contexts' ,`Pleiotropic genes`, 'Pleiotropic regulons', `Psychiatric disorders`, `Ocular diseases`
 
 
 ## Workflow of current study
